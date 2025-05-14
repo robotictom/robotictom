@@ -23,4 +23,4 @@ Digital product manager and technical architect specializing in ecommerce platfo
 
 - Personal Website: [robotictom.com](https://robotictom.com)
 - Linkedin: [@tommccabe](https://www.linkedin.com/in/tommccabe/)
-- Bluesky: [@robotictom](https://bsky.app/profile/robotictom.com)
+- Bluesky: [@robotictom.com](https://bsky.app/profile/robotictom.com)
